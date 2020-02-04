@@ -2,15 +2,16 @@
 
 Adds two numbers. No more. No less.
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+This project builds on top of creating layouts with Stateless Widgets. We will dynamically add two numbers together and return the sum. To do this, we must use variables and keep track of our Widget's state. Enter StatefulWidget.
 
-A few resources to get you started if this is your first Flutter project:
+## New Widgets
+- StatefulWidget
+- FLoatingActionButton
+- TextStyle
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## New Concepts
+-  State
+- Variables
+- Functions
